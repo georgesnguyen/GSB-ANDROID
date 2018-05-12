@@ -1,0 +1,4 @@
+#Sat May 12 12:35:20 CEST 2018
+base.0=F\:\\BTS\\BTS BAC+2\\SLAM5\\GSB-RV-Visiteur\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
